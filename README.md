@@ -2,7 +2,7 @@
 
 **Data engineer by day, fullstack by night. Currently testing the limits of AI-assisted development.**
 
-Generalist with 8+ years building data infrastructure — from credit decision engines in banking to ELT platforms at scale. Problem-fitted solutions over hype. Based in Berlin.
+Problem-fitted solutions over hype. Based in Berlin.
 
 ### What I'm working on
 
