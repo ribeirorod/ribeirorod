@@ -40,6 +40,6 @@ Problem-fitted solutions over hype. Based in Berlin.
 <br>
 <a href="https://github.com/ribeirorod">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ribeirorod&show_icons=true&theme=default&include_all_commits=true&hide_border=true&bg_color=00000000"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ribeirorod&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ribeirorod&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000&exclude_repo=herocoders-data-platform,a-tools-ui,takeaways"/>
 </a>
 </details>
