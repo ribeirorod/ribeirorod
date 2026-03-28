@@ -6,7 +6,7 @@ Problem-fitted solutions over hype. Based in Berlin.
 
 ### What I'm working on
 
-- **Reimagining gastronomy in Brazil** — Building [Bisu do Chef](https://github.com/blackblocklabs), a zero-friction platform for restaurants, bars, and cafes. Customers scan a QR code, browse the menu, order, and pay instantly — the kitchen gets it in real time. No app downloads, no expensive hardware, no middleman commissions. React Native, FastAPI, Supabase, event-driven architecture.
+- **Reimagining gastronomy in Brazil** — Building [Bisu do Chef](https://bisudochef.com.br), a zero-friction platform for restaurants, bars, and cafes. Customers scan a QR code, browse the menu, order, and pay instantly — the kitchen gets it in real time. No app downloads, no expensive hardware, no middleman commissions. React Native, FastAPI, Supabase, event-driven architecture.
 
 - **Designing a platform for professionals** — An AI-powered booking agent that lets any freelancer (barbers, therapists, consultants) manage clients, calendar, and payments through WhatsApp, a landing page, and email. One agent, multiple channels.
 
